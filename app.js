@@ -235,16 +235,16 @@
 
 //15
 
-var phManufacturer = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"]
+// var phManufacturer = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"]
 
-document.write("<h1>Drop Down / Select Menu</h1><Select>"
-    +"<option>Select</option>"
-    +"<option>"+phManufacturer[0]+"</option>"
-    +"<option>"+phManufacturer[1]+"</option>"
-    +"<option>"+phManufacturer[2]+"</option>" 
-    +"<option>"+phManufacturer[3]+"</option>" 
-    +"<option>"+phManufacturer[4]+"</option>" 
-    +"<option>"+phManufacturer[5]+"</option>" 
+// document.write("<h1>Drop Down / Select Menu</h1><Select>"
+//     +"<option>Select</option>"
+//     +"<option>"+phManufacturer[0]+"</option>"
+//     +"<option>"+phManufacturer[1]+"</option>"
+//     +"<option>"+phManufacturer[2]+"</option>" 
+//     +"<option>"+phManufacturer[3]+"</option>" 
+//     +"<option>"+phManufacturer[4]+"</option>" 
+//     +"<option>"+phManufacturer[5]+"</option>" 
     
 
-+"</select>")
+// +"</select>")
